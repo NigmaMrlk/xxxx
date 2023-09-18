@@ -1,0 +1,8 @@
+C:\Linh\DATA\TEKLA\01_Convert\CODE\18092023\Linhq\Linhq\bin\Debug\Linhq.exe.config
+C:\Linh\DATA\TEKLA\01_Convert\CODE\18092023\Linhq\Linhq\bin\Debug\Linhq.exe
+C:\Linh\DATA\TEKLA\01_Convert\CODE\18092023\Linhq\Linhq\bin\Debug\Linhq.pdb
+C:\Linh\DATA\TEKLA\01_Convert\CODE\18092023\Linhq\Linhq\obj\Debug\Linhq.csproj.AssemblyReference.cache
+C:\Linh\DATA\TEKLA\01_Convert\CODE\18092023\Linhq\Linhq\obj\Debug\Linhq.csproj.SuggestedBindingRedirects.cache
+C:\Linh\DATA\TEKLA\01_Convert\CODE\18092023\Linhq\Linhq\obj\Debug\Linhq.csproj.CoreCompileInputs.cache
+C:\Linh\DATA\TEKLA\01_Convert\CODE\18092023\Linhq\Linhq\obj\Debug\Linhq.exe
+C:\Linh\DATA\TEKLA\01_Convert\CODE\18092023\Linhq\Linhq\obj\Debug\Linhq.pdb
